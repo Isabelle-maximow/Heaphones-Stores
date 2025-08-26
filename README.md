@@ -16,8 +16,15 @@ O projeto foi desenvolvido com foco em **design clean**, **performance** e **exp
 ---
 
 ## 🖼️ Preview  
-![Preview da Landing Page](./preview.png)  
+<img width="1365" height="623" alt="home site" src="https://github.com/user-attachments/assets/90e3ac10-aa25-4839-88b2-e10ce671ee41" />
 
+<img width="1365" height="625" alt="sobre site" src="https://github.com/user-attachments/assets/39b47d27-45e3-4805-944d-3f6b45d8b963" />
+
+<img width="1365" height="628" alt="case site" src="https://github.com/user-attachments/assets/a33efc9d-229b-46ed-b975-1ae6515f6ead" />
+
+<img width="1364" height="626" alt="site uma parte" src="https://github.com/user-attachments/assets/b8a2d42a-310f-4110-8d35-66d66b4558eb" />
+
+<img width="1365" height="622" alt="footer site" src="https://github.com/user-attachments/assets/ad0a344a-3310-4f24-b53c-7c188d476cdc" />
 
 ---
 
