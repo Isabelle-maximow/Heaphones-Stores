@@ -24,6 +24,8 @@ O projeto foi desenvolvido com foco em **design clean**, **performance** e **exp
 
 <img width="1364" height="626" alt="site uma parte" src="https://github.com/user-attachments/assets/b8a2d42a-310f-4110-8d35-66d66b4558eb" />
 
+<img width="1365" height="624" alt="variedades" src="https://github.com/user-attachments/assets/c18add33-dbb7-471f-bf71-d7915c38f12e" />
+
 <img width="1365" height="622" alt="footer site" src="https://github.com/user-attachments/assets/ad0a344a-3310-4f24-b53c-7c188d476cdc" />
 
 ---
