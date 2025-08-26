@@ -54,7 +54,7 @@ Clone o repositório:
 git clone https://github.com/seu-usuario/headphone-landing-page.git
 
 Acesse a pasta:
-cd headphone-landing-page
+cd Heaphones-Stores
 
 Instale as dependências (se estiver usando npm/yarn):
 npm install
