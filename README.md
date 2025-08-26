@@ -3,8 +3,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)  
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)  
+
 
 Uma landing page moderna, responsiva e estilosa para uma loja de **headphones premium**.  
 O projeto foi desenvolvido com foco em **design clean**, **performance** e **experiência do usuário**.  
@@ -12,22 +11,20 @@ O projeto foi desenvolvido com foco em **design clean**, **performance** e **exp
 ---
 
 ## 🚀 Demonstração  
-👉 [Acesse a página online](#) *(adicione o link do deploy aqui, ex: Vercel, Netlify ou GitHub Pages)*  
+👉 [Acesse a página online](#) 
 
 ---
 
 ## 🖼️ Preview  
 ![Preview da Landing Page](./preview.png)  
-*(adicione um print do site na raiz do projeto com o nome `preview.png`)*  
+
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas  
 - **HTML5**  
-- **CSS3 / TailwindCSS**  
+- **CSS3 / SCSS**
 - **JavaScript**  
-- **ScrollReveal** *(ou outra biblioteca de animação, caso usada)*  
-- **SwiperJS** *(caso tenha carrossel de produtos)*  
 
 ---
 
@@ -49,4 +46,24 @@ O projeto foi desenvolvido com foco em **design clean**, **performance** e **exp
    ┣ 📂 scss           # Arquivos fonte SCSS
  ┣ 📜 index.html     # Página principal
  ┣ 📜 README.md      # Documentação do projeto
+```
+# ⚙️ Como Executar o Projeto  
 
+Clone o repositório:  
+```bash
+git clone https://github.com/seu-usuario/headphone-landing-page.git
+
+Acesse a pasta:
+cd headphone-landing-page
+
+Instale as dependências (se estiver usando npm/yarn):
+npm install
+
+Abra o arquivo index.html no navegador ou use uma extensão como Live Server no VS Code.
+```
+
+---
+
+✨ Feito com 💜 e muito som nos fones!  
+
+---
