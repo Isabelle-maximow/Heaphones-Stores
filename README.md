@@ -51,7 +51,7 @@ O projeto foi desenvolvido com foco em **design clean**, **performance** e **exp
 
 Clone o repositório:  
 ```bash
-git clone https://github.com/seu-usuario/headphone-landing-page.git
+git clone [https://github.com/seu-usuario/headphone-landing-page.git](https://github.com/Isabelle-maximow/Heaphones-Stores/tree/main)
 
 Acesse a pasta:
 cd Heaphones-Stores
